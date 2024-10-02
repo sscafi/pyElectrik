@@ -1,4 +1,4 @@
-# Physics Simulator README
+# Physics Simulator README.
 
 ===========================
 
